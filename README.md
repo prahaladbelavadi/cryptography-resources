@@ -1,10 +1,10 @@
 # cryptography-resources
 List of learning resources for cryptography
 
-[Books](./books.md)
+[Books](./books)
 
 [Courses](./courses)
 
-Reference Material
+[Reference Material](./referenceMaterial)
 
-Credits
+[Credits](./credits)
